@@ -51,7 +51,7 @@ h1 {
 }
 
 h2 {
-	color: #ed832b;
+	color: #472a11;
 	font: 600 2.125rem/2.75rem "Poppins", sans-serif;
 }
 
@@ -149,7 +149,19 @@ a:hover {
 	text-decoration: none;
 	transition: all 0.2s;
 }
-
+.btn-solid-fya {
+	display: inline-block;
+	padding: 1.375rem 2.25rem 1.375rem 2.25rem;
+	border: 1px solid #faf9f8;
+	border-radius: 32px;
+	background-color: #eca306;
+	color: #ffffff;
+	font-weight: 600;
+	font-size: 0.875rem;
+	line-height: 0;
+	text-decoration: none;
+	transition: all 0.2s;
+}
 .btn-solid-reg:hover {
 	border: 1px solid #eca306;
 	background-color: transparent;
@@ -789,7 +801,7 @@ input[type='checkbox'] {
 /*     Features     */
 /********************/
 .basic-4 {
-	padding-top: 40rem;
+	padding-top: 7.5rem;
 	padding-bottom: 1.5rem;
 	background-color: #eca306;
 }
@@ -802,8 +814,8 @@ input[type='checkbox'] {
 
 .basic-4 .text-box {
 	margin-bottom: 2rem;
-	padding: 4.5rem 1rem 1.125rem 1rem;
-	border-radius: 10px;
+	padding: 2.5rem 1rem 1.125rem 1rem;
+	border-radius: 5px;
 }
 
 
