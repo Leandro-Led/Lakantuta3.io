@@ -1989,7 +1989,7 @@ progress {
   font-weight: 400;
   line-height: 1.5;
   color: #212529;
-  background-color: #fff;
+  background-color: #cac5c5;
   background-clip: padding-box;
   border: 1px solid #ced4da;
   -webkit-appearance: none;
@@ -10962,7 +10962,7 @@ header.masthead .masthead-heading {
 
 @media (min-width: 768px) {
   header.masthead {
-    padding-top: 17rem;
+    padding-top: 35rem;
     padding-bottom: 12.5rem;
   }
   header.masthead .masthead-subheading {
@@ -11250,8 +11250,8 @@ header.masthead .masthead-heading {
 section#contact {
   background-color: #212529;
   background-image: url("../assets/img/map-image.png");
-  background-repeat: no-repeat;
-  background-position: center;
+  background-repeat: repeat;
+  background-position: top;
 }
 section#contact .section-heading {
   color: #fff;
